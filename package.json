@@ -1,0 +1,23 @@
+{
+  "name": "dio-cypress",
+  "version": "1.0.0",
+  "description": "Repositorio para curso de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --spec 'cypress/e2e/spec.cy.js'",
+    "cy:run:qa": "cypress run -C cypress-qa.config.js",
+    "cy:run:chrome": "cypress run --headed"
+  },
+  "author": "Bruno Dórea",
+  "repository": {
+    "type": "git",
+    "url": "",
+    "directory": ""
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
