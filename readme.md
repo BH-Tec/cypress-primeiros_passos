@@ -1,6 +1,6 @@
 # Primeiros passos com Cypress
 
-[![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg)](https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc)
+[![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/018d6041-6dd5-4632-a38d-6fadf27839d2.svg)](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/018d6041-6dd5-4632-a38d-6fadf27839d2)
 
 ## 💼 Sobre o projeto
 
